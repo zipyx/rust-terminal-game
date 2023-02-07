@@ -19,6 +19,6 @@ vim keybindings and inspiration.
 Since this is a terminal game, the assumption is you have `rust` installed on your terminal and you are able to run `cargo`.
 
 ```bash
-# Run the game in the parent folder
+# Run the command in the parent folder
 cargo run
 ```
